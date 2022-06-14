@@ -47,7 +47,7 @@
         try {
             
             $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-            $stmt = $conn->prepare("SELECT * from ratuff2rowij3xi9.notas");
+            $stmt = $conn->prepare("SELECT * from qqfit0auyvfl7e06.notas");
             $stmt->execute();
 
             
